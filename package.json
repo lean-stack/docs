@@ -1,11 +1,11 @@
 {
-  "name": "brunch-app",
-  "description": "Description",
-  "author": "Your Name",
-  "version": "0.1.0",
+  "name": "docs",
+  "description": "Lean Webdev Docs",
+  "author": "Micha Alt <mail@lean-stack.de>",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/lean-stack/docs"
   },
   "scripts": {
     "start": "brunch watch --server",
