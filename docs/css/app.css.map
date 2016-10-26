@@ -1,0 +1,1 @@
+{"version":3,"sources":["app/styles/app.scss"],"names":[],"mappings":"AAAA,IAAI,CAAC;EACH,WAAW,EAAE,KAAM,GACpB","file":"docs/css/app.css","sourcesContent":["body {\r\n  font-family: Arial;\r\n}"]}
